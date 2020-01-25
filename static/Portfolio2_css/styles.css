@@ -118,7 +118,7 @@ b.max-bold{ font-weight: 700; }
 --------------------------------- */
 
 .intro-section{ padding: 50px 0; position: relative; background-size: cover; 
-	z-index: 1;background-image: url(../../static/images/slider-3-1920x1080.jpg); }
+	z-index: 1;background-image: url(../../static/images/Penguins.jpg); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
@@ -127,7 +127,7 @@ b.max-bold{ font-weight: 700; }
 /* HEADER */
 
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
-	background: rgb(0, 153, 204); color: #fff; }
+	background: rgba(3, 58, 71, 0); color: #fff; }
 
 .intro-section .info{ margin-bottom: 10px; }
 
@@ -157,7 +157,7 @@ b.max-bold{ font-weight: 700; }
 
 
 .intro .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margin-top: 30px;
-	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: rgb(0, 153, 204); color: #fff; 
+	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: rgb(1, 42, 56); color: #fff; 
 	-webkit-transition: all .2s ease; transition: all .2s ease; }
 
 .intro .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: translateY(-4px); }
